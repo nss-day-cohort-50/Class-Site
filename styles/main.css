@@ -5,9 +5,10 @@ p {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    background: url("../images/white_gradient.svg") fixed no-repeat;
     background-size: 100%;
     background-color: black;
+
 }
 
 blockquote{
@@ -96,6 +97,7 @@ main {
     margin-bottom: 25px;
     background: white;
 }
+
 
 .col-sm-2.technologies{
     border: none;
@@ -251,3 +253,13 @@ button{
       }
 
 }
+
+
+
+
+
+
+
+
+
+
