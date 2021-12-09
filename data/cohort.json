@@ -33,7 +33,7 @@
             "reelThemIn": "The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela",
             "bio": "<p>During my time as a teacher I was surrounded by people who were eager to learn. I was inspired to pursue learning software development in the 6th grade. Finally, I decided to pick up what I thought to be a lost dream. When we were at the hospital where my wife was giving birth to our first child I began to learn how to write in the SWIFT language. I ate up everything related to software and web development. So much so that I decided to make a career change to become a software developer. I chose to go to Nashville Software School because of their strong track record of success and the 6 month time table was ideal for my situation. During my time at NSS I have had the opportunity to develop software in several languages such as: HTML, CSS, JavaScript, React, Python, Django, and SQL. I am on track to graduate from NSS on Jan 10th 2022. I am looking for a junior software development job in the Nashville area. I have a passion for software development and a love of learning. I am a driven individual who doesn’t give up until the job is done.</p>",
             "github": "https://github.com/pulley871",
-            "linkedIn": "linkedin.com/in/josh-pulley871/",
+            "linkedIn": "https://linkedin.com/in/josh-pulley871/",
             "portfolio": "https://personal-site-jp.herokuapp.com/",
             "email": "josh.pulley@icloud.com",
             "proImg": "JessePage.jpg",
@@ -47,7 +47,7 @@
             "bio": "Hey y'all! I'm Kylie Postlethwaite, a Nashvile native and an avid outdoor adventurer. Tech has been an exciting (and frustrating) challenge that keeps me on my toes. When I'm not writing code, you can find me playing on some whitewater!",
             "github": "https://github.com/kyliepost",
             "linkedIn": "https://www.linkedin.com/in/kylie-postlethwaite-9a4872211/",
-            "portfolio": "null",
+            "portfolio": null,
             "email": "kylie.postlethwaite00@gmail.com",
             "proImg": "LissaGoforth.jpg",
             "funImg": "LissaGoforth_Fun.jpg"
@@ -60,7 +60,7 @@
             "bio": "<p>I am a native of Nashville, Tennessee with a passion for tech, scuba diving and extreme sports. I also enjoy watching hockey doing just about any outdoor activity. I tend to be a Maximizer, hyper-focused on a project until it is adequately next level.</p>",
             "github": "https://github.com/DArmstrong87",
             "linkedIn": "https://www.linkedin.com/in/daniel-armstrong87/",
-            "portfolio": "danielarmstrong.dev",
+            "portfolio": "https://danielarmstrong.dev",
             "email": "lenzflare@gmail.com",
             "proImg": "GregLawrence.jpg",
             "funImg": "GregLawrence_Fun.jpg"
@@ -72,8 +72,8 @@
             "reelThemIn": "It's not a dress rehearsal",
             "bio": "<p>I am a recovering music industry professional diving head first into the tech industry. Find me on a lake in the summer time, or in the deep snow of the mountains out West in the winter time.</p>",
             "github": "https://github.com/MatthewSingler",
-            "linkedIn": "www.linkedin.com/in/matthewsingler1",
-            "portfolio": "null",
+            "linkedIn": "https://linkedin.com/in/matthewsingler1",
+            "portfolio": null,
             "email": "Matthew.singler@gmail.com",
             "proImg": "KristenNorris.jpg",
             "funImg": "KristenNorris_Fun.jpg"
@@ -86,7 +86,7 @@
             "bio": "<p>I am a results-oriented professional with over 17 years of experience in operations management. I have always been a highly intrinsically motivated individual that loves finding new ways to improve processes,  solving problems using critical and unconventional thinking, and most important to me, helping others. I recently decided to change my career and enter a field where the challenge of constantly learning new skills, solving new problems, and working with others in a completely new capacity seem endless. That is what led me to where I am now.</p>",
             "github": "https://github.com/jmrosenberger",
             "linkedIn": "https://www.linkedin.com/in/josh-rosenberger-5ab05765/",
-            "portfolio": "www.jrosenberger.dev",
+            "portfolio": null,
             "email": "jmrosenberger0811@yahoo.com",
             "proImg": "PaulEllis.jpg",
             "funImg": "PaulEllis_Fun.jpg"
@@ -99,7 +99,7 @@
             "bio": "<p>I am currently in a Software Developer apprenticeship at Nashville Software School and have been a Psychological Operations Specialist in the United States Army for over 10 years. I also create weekly content for YouTube, Twitter, and Twitch for 40,000+ people. My diverse life experiences have led me to meeting many great people in the software development world. Seeing the problem solving and creativity their work involved first hand inspired me to travel down this career path.</p>",
             "github": "https://github.com/aww2539",
             "linkedIn": "https://www.linkedin.com/in/alexander-w-woodall/",
-            "portfolio": "null",
+            "portfolio": null,
             "email": "alexander.w.woodall@gmail.com",
             "proImg": "JessePage.jpg",
             "funImg": "JessePage_Fun.jpg"
@@ -110,9 +110,9 @@
             "lastName": "Gregory",
             "reelThemIn": "Look at this! It's a developer! You can tell it's a developer by the way it is.",
             "bio": "I have always found new ways to explore, create and communicate with computers. They're the most powerful, perplexing tools we have and I am lucky I get to learn something new about them every day. After an already diverse career I am pursuing new avenues, and I am excited to apply my newfound skillset.",
-            "github": "github.com/TheBenGregory",
-            "linkedIn": "linkedin.com/in/BGMakesItHappen",
-            "portfolio": "JBGregory.com",
+            "github": "https://github.com/TheBenGregory",
+            "linkedIn": "https://linkedin.com/in/BGMakesItHappen",
+            "portfolio": "https://jbgregory.com/",
             "email": "JBGregoryPro@protonmail.com",
             "proImg": "LissaGoforth.jpg",
             "funImg": "LissaGoforth_Fun.jpg"
@@ -125,7 +125,7 @@
             "bio": "<p>I have always really enjoyed problem solving and fixing things, it allows you to gain a deeper understanding of whatever it is that you are working on. Thats why love software development, it's all a big puzzle that I get to analyze, digest, break down, and put back together. I'm really looking forward to making a career of it!</p>",
             "github": "https://github.com/Lunderwood33",
             "linkedIn": "https://www.linkedin.com/in/lincoln-d-underwood-623b60212/",
-            "portfolio": "www.lincolnunderwood.com",
+            "portfolio": null,
             "email": "lincolnunderwood33@gmail.com",
             "proImg": "GregLawrence.jpg",
             "funImg": "GregLawrence_Fun.jpg"
@@ -138,7 +138,7 @@
             "bio": "<p>I have worn many hats in my past careers; purchasing and inventory management, supervising, short-order cook, and delivery driver just to name a few. If there is one thing that has permeated through all these jobs, it is the technology I used to support me in these roles. Software development has endless possibilities, and is as rewarding as it is challenging.  I am excited to continue my journey as a programmer and a student - because if there is one thing I have discovered about this field, it is that I will never stop learning.</p>",
             "github": "https://github.com/SBorghesani",
             "linkedIn": "https://www.linkedin.com/in/stefanborghesani/",
-            "portfolio": "stefanb.dev",
+            "portfolio": "https://stefanb.dev/",
             "email": "stefan.borghesani@gmail.com",
             "proImg": "KristenNorris.jpg",
             "funImg": "KristenNorris_Fun.jpg"
@@ -151,7 +151,7 @@
             "bio": "<p>I like writing. Code, fiction, poetry, I'm always writing.</p>",
             "github": "https://github.com/shanks-t",
             "linkedIn": "https://www.linkedin.com/in/treyshanks/",
-            "portfolio": "null",
+            "portfolio": null,
             "email": "shanksleslietrey@gmail.com",
             "proImg": "PaulEllis.jpg",
             "funImg": "PaulEllis_Fun.jpg"
@@ -163,8 +163,8 @@
             "reelThemIn": "If it ain't broke, dont fix it",
             "bio": "<p>I'm a person who loves the outdoors and coding. I took a class on PL/SQL back in college and it was my first exposure into programming. I took a leap of faith and joined NSS and it was the best decision I ever made.</p>",
             "github": "https://github.com/bdleon",
-            "linkedIn": "www.linkedin.com/in/brandon-de-leon",
-            "portfolio": "null",
+            "linkedIn": "https://linkedin.com/in/brandon-de-leon",
+            "portfolio": null,
             "email": "brandondeleon.615@gmail.com",
             "proImg": "JessePage.jpg",
             "funImg": "JessePage_Fun.jpg"
@@ -177,7 +177,7 @@
             "bio": "I'm a teacher-turned-developer born and raised in Nashville.  When I'm not coding, I'm most likely playing video games, reading, or cooking something that will turn out inedible.  NSS has been an incredible experience and I look forward to new challenges ahead.  If you need it, I'll learn it!",
             "github": "https://github.com/CassieTesauro",
             "linkedIn": "https://www.linkedin.com/in/catherine-cassie-tesauro/",
-            "portfolio": "CassieTesauro.github.io",
+            "portfolio": "https://CassieTesauro.github.io",
             "email": "cassie.tesauro@gmail.com",
             "proImg": "LissaGoforth.jpg",
             "funImg": "LissaGoforth_Fun.jpg"
@@ -190,7 +190,7 @@
             "bio": "<p>I'm Cameron White, and I was born and raised here in Nashville! My first foray into programming was making fake webpages to prank my friends in middle school. That \"fun\" factor of development keeps my passion alive, and I'm always up for that next puzzle to solve!</p>",
             "github": "github.com/cameronpwhite",
             "linkedIn": "https://www.linkedin.com/in/cameron-p-white/",
-            "portfolio": "www.cameronpwhite.com",
+            "portfolio": "https://cameronpwhite.com",
             "email": "cameronpwhite98@gmail.com",
             "proImg": "GregLawrence.jpg",
             "funImg": "GregLawrence_Fun.jpg"
@@ -202,8 +202,8 @@
             "reelThemIn": "The one thing that I'm never going to get used to in programming, is the code working suddenly when I try to show someone else the error I'm getting.",
             "bio": "<p>I've been living in Nashville for most of my life and I'm excited to begin my career here as well.</p>",
             "github": "https://github.com/zbrhoden",
-            "linkedIn": "https://www.linkedin.com/in/zachary-rhoden/",
-            "portfolio": "null",
+            "linkedIn": "https://linkedin.com/in/zachary-rhoden/",
+            "portfolio": null,
             "email": "zbrhoden@gmail.com",
             "proImg": "KristenNorris.jpg",
             "funImg": "KristenNorris_Fun.jpg"
@@ -216,7 +216,7 @@
             "bio": "<p>I've loved tinkering with computers and figuring out how things worked since I got my first blue iMac back in 1997. After years of looking into programming, I finally joined a three week jumpstart course at Nashville Software School and fell in love. I can't wait to dive head first into this new career path.</p>",
             "github": "https://github.com/alexanderschroyer",
             "linkedIn": "https://www.linkedin.com/in/a-schroyer/",
-            "portfolio": "null",
+            "portfolio": null,
             "email": "alexanderschroyer@gmail.com",
             "proImg": "PaulEllis.jpg",
             "funImg": "PaulEllis_Fun.jpg"
@@ -242,7 +242,7 @@
             "bio": "My background is in Operational Management.  I am passionate about Company Culture, Servant Leadership, and Tech!  My dream is to find a company who also values these things and progress with them.",
             "github": "https://github.com/WBradford8",
             "linkedIn": "https://www.linkedin.com/in/wadebradford/",
-            "portfolio": "www.WadeBradford.dev",
+            "portfolio": null,
             "email": "wadebradfordtn@gmail.com",
             "proImg": "LissaGoforth.jpg",
             "funImg": "LissaGoforth_Fun.jpg"
@@ -266,9 +266,9 @@
             "lastName": "Almodovar",
             "reelThemIn": "I have this code right where I want it",
             "bio": "<p>Solution-driven software developer with a strong technical background and a willingness to continue to learn.</p>",
-            "github": "github.com/galmodovar",
-            "linkedIn": "linkedin.com/in/galmodovar",
-            "portfolio": "null",
+            "github": "https://github.com/galmodovar",
+            "linkedIn": "https://linkedin.com/in/galmodovar",
+            "portfolio": null,
             "email": "galmodovar1@gmail.com",
             "proImg": "KristenNorris.jpg",
             "funImg": "KristenNorris_Fun.jpg"
@@ -281,7 +281,7 @@
             "bio": "<p>Web Developer | Veteran | Musician | Gamer</p>",
             "github": "https://github.com/travish-io",
             "linkedIn": "https://www.linkedin.com/in/travish-io/",
-            "portfolio": "travishall.io",
+            "portfolio": null,
             "email": "t.hall89d@gmail.com",
             "proImg": "GregLawrence.jpg",
             "funImg": "GregLawrence_Fun.jpg"
@@ -294,7 +294,7 @@
             "bio": "<p>|COFFEE|BAD MOVIES|DOGS|WHISKEY|MILITARY|BIRD HUNTING|SQL|LINUX|REACT|PYTHON|DJANGO|OOP|DOG DUDE|FLY FISHING|TRAVEL|</p>",
             "github": "https://github.com/JCrippen01",
             "linkedIn": "https://www.linkedin.com/in/justin-crippen/",
-            "portfolio": "jcrippen.com",
+            "portfolio": "https://jcrippen.com",
             "email": "Justin.Crippen@gmail.com",
             "proImg": "KristenNorris.jpg",
             "funImg": "KristenNorris_Fun.jpg"
