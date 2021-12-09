@@ -128,6 +128,10 @@ main {
 .card-img-top {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  object-position: top;
 }
 
 .col,
@@ -251,4 +255,11 @@ button {
   .navbar-brand img {
     padding-right: none;
   }
+}
+.studentphotos {
+  width: 285px;
+  
+}
+.card-img-top {
+  width: 100%;
 }
