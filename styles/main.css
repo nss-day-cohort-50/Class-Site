@@ -6,9 +6,11 @@ html,
 body {
   max-width: 100%;
   overflow-x: hidden;
-  background: url("../images/white_gradient.svg") fixed;
-  background-size: 100%;
-  background-color: black;
+  background-image: url("../images/white_gradient.svg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: rgb(223, 228, 245);
 }
 
 blockquote {
@@ -210,9 +212,12 @@ button {
   }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1366px) {
   body {
-    background: url("../images/white_gradient.svg") repeat;
+    background-image: url("../images/white_gradient.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
   }
   .jumbotron.jumbotron-fluid img {
     background: white;
