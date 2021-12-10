@@ -67,7 +67,7 @@ blockquote {
 .jumbotron.jumbotron-fluid img {
   background: none;
   width: 100%;
-  margin-top: -80px;
+  margin-top: 10px;
 }
 
 main {
@@ -190,7 +190,10 @@ main {
 #demo-date a {
   color: #238193 !important;
 }
-
+.active {
+    size: cover;
+    
+}
 button {
   cursor: pointer;
 }
@@ -209,8 +212,24 @@ button {
   .fa-3x {
     font-size: 2.5em !important;
   }
+  .card-img-top {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100%;
+    
+   
+    object-position: top;
+  }
 }
-
+@media (min-width: 300px) and (max-width: 768px) {
+    .fa-3x {
+      font-size: 2em !important;
+    }
+    .card-img-top {
+        transform: translateX(17%);
+        margin-top: 1rem;
+      }
+  }
 @media (min-width: 768px) and (max-width: 991px) {
   .fa-3x {
     font-size: 2em !important;
@@ -224,6 +243,7 @@ button {
     background-attachment: fixed;
     background-size: cover;
   }
+  
   .jumbotron.jumbotron-fluid img {
     background: white;
     margin-top: 30px;
