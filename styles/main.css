@@ -229,12 +229,18 @@ button {
         transform: translateX(17%);
         margin-top: 1rem;
       }
-  }
+    .jumbotron.jumbotron-fluid img {
+      background: white;
+      margin-top: 40px;
+  }}
 @media (min-width: 768px) and (max-width: 991px) {
   .fa-3x {
     font-size: 2em !important;
   }
-}
+  .jumbotron.jumbotron-fluid img {
+    background: white;
+    margin-top: 50px;
+}}
 
 @media (max-width: 1366px) {
   body {
