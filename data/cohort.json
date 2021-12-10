@@ -184,16 +184,16 @@
         },
         {
             "id": 15,
-            "firstName": "Cameron",
-            "lastName": "White",
-            "reelThemIn": "My laptop stickers make my CPU 5% faster.",
-            "bio": "<p>I'm Cameron White, and I was born and raised here in Nashville! My first foray into programming was making fake webpages to prank my friends in middle school. That \"fun\" factor of development keeps my passion alive, and I'm always up for that next puzzle to solve!</p>",
-            "github": "github.com/cameronpwhite",
-            "linkedIn": "https://www.linkedin.com/in/cameron-p-white/",
-            "portfolio": "https://cameronpwhite.com",
-            "email": "cameronpwhite98@gmail.com",
-            "proImg": "CameronWork.jpg",
-            "funImg": "CameronFun.jpg"
+            "firstName": "Myriam",
+            "lastName": "Chevalier",
+            "reelThemIn": "\"Le monde entier est un cactus\" - Jacques Dutronc ",
+            "bio": "<p>Montreal --> Nashville || Software Developer || Bug Crusher || Cohort Cheerleader || Blues Dancer</p>",
+            "github": "https://github.com/myriamchevalier",
+            "linkedIn": "https://www.linkedin.com/in/myriamchevalier/",
+            "portfolio": "https://myriamchevalier.github.io/",
+            "email": "myriamochevalier@gmail.com",
+            "proImg": "MyriamCHeadshot.jpeg",
+            "funImg": "MyriamCHeadshot.jpeg"
         },
         {
             "id": 16,
@@ -223,16 +223,16 @@
         },
         {
             "id": 18,
-            "firstName": "Myriam",
-            "lastName": "Chevalier",
-            "reelThemIn": "\"Le monde entier est un cactus\" - Jacques Dutronc ",
-            "bio": "<p>Montreal --> Nashville || Software Developer || Bug Crusher || Cohort Cheerleader || Blues Dancer</p>",
-            "github": "https://github.com/myriamchevalier",
-            "linkedIn": "https://www.linkedin.com/in/myriamchevalier/",
-            "portfolio": "https://myriamchevalier.github.io/",
-            "email": "myriamochevalier@gmail.com",
-            "proImg": "MyriamCHeadshot.jpeg",
-            "funImg": "MyriamCHeadshot.jpeg"
+            "firstName": "Cameron",
+            "lastName": "White",
+            "reelThemIn": "My laptop stickers make my CPU 5% faster.",
+            "bio": "<p>I'm Cameron White, and I was born and raised here in Nashville! My first foray into programming was making fake webpages to prank my friends in middle school. That \"fun\" factor of development keeps my passion alive, and I'm always up for that next puzzle to solve!</p>",
+            "github": "github.com/cameronpwhite",
+            "linkedIn": "https://www.linkedin.com/in/cameron-p-white/",
+            "portfolio": "https://cameronpwhite.com",
+            "email": "cameronpwhite98@gmail.com",
+            "proImg": "CameronWork.jpg",
+            "funImg": "CameronFun.jpg"
         },
         {
             "id": 19,
